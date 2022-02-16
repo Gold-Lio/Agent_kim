@@ -5,10 +5,9 @@ using UnityEngine.UI;
 
 public class DialogueManager : MonoBehaviour
 {
-    public Text nameText;
-    public Text dialogueText;
-
-    public Animator Animator;
+    public Text nameText;      // 손님 이름 nametext
+    public Text dialogueText;  // 대화 내용 text
+    public Animator Animator;  // text창을 끄고 키는 애니매이터
 
     private Queue<string> sentences;
 
@@ -43,11 +42,10 @@ public class DialogueManager : MonoBehaviour
 
         string sentence = sentences.Dequeue();
         StopAllCoroutines();
-        StartCoroutine(TypeSentence(sentence));
+        StartCoroutine(TypeSentence(sentence));  //코루틴 시작.
     }
 
-
-    IEnumerator TypeSentence(string sentence)
+    IEnumerator TypeSentence(string sentence)  //글자 하나 하나를 입력하듯이 출력하는 코루틴.
     {
         dialogueText.text = "";
         foreach(char letter in sentence.ToCharArray())
@@ -58,9 +56,6 @@ public class DialogueManager : MonoBehaviour
     }
     void EndDialogue()
     {
-
-        Animator.SetBool("IsOpen", false);
+        Animator.SetBool("IsOpen", false);   //dialogue를 끝낼때 사용하는 애니메이션
     }
-
-
 }
