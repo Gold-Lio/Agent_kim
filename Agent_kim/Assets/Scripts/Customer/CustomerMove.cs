@@ -13,14 +13,16 @@ public class CustomerMove : MonoBehaviour
 
     void Update()
     {
-        rigidbody.velocity = new Vector3(0, 0, 5);
+        rigidbody.velocity = new Vector3(0, 0, 10);
     }
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.gameObject.CompareTag("wall"))
+        if (other.gameObject.CompareTag("wall"))
         {
             rigidbody.velocity = new Vector3(0, 0, 0);
+
+            DialogueTrigger.instance.TriggerDialogue();
         }
     }
 }
