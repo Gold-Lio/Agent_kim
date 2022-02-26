@@ -1,0 +1,7476 @@
+fileFormatVersion: 2
+guid: 82262d9ba8ccf2948af437ff727ce2d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3337462126831769503
+    second: PC Computer - MapleStory - Kino_0
+  - first:
+      213: -460226922567985281
+    second: PC Computer - MapleStory - Kino_1
+  - first:
+      213: -7775736823605764218
+    second: PC Computer - MapleStory - Kino_2
+  - first:
+      213: -7147131399971824695
+    second: PC Computer - MapleStory - Kino_3
+  - first:
+      213: 8561982381242851271
+    second: PC Computer - MapleStory - Kino_4
+  - first:
+      213: -7131191319344529017
+    second: PC Computer - MapleStory - Kino_5
+  - first:
+      213: -4026517773589723629
+    second: PC Computer - MapleStory - Kino_6
+  - first:
+      213: 758025596477308162
+    second: PC Computer - MapleStory - Kino_7
+  - first:
+      213: -89932246979726126
+    second: PC Computer - MapleStory - Kino_8
+  - first:
+      213: -4258163686722373107
+    second: PC Computer - MapleStory - Kino_9
+  - first:
+      213: 3205205091659166499
+    second: PC Computer - MapleStory - Kino_10
+  - first:
+      213: 5619125368702828495
+    second: PC Computer - MapleStory - Kino_11
+  - first:
+      213: -2331653505447069555
+    second: PC Computer - MapleStory - Kino_12
+  - first:
+      213: 6257348613236483452
+    second: PC Computer - MapleStory - Kino_13
+  - first:
+      213: -7059437218902533190
+    second: PC Computer - MapleStory - Kino_14
+  - first:
+      213: 7873983335381121927
+    second: PC Computer - MapleStory - Kino_15
+  - first:
+      213: -6321841109668210072
+    second: PC Computer - MapleStory - Kino_16
+  - first:
+      213: 207806478003971179
+    second: PC Computer - MapleStory - Kino_17
+  - first:
+      213: -629773268626077393
+    second: PC Computer - MapleStory - Kino_18
+  - first:
+      213: -506305240368298378
+    second: PC Computer - MapleStory - Kino_19
+  - first:
+      213: 5967527573157848097
+    second: PC Computer - MapleStory - Kino_20
+  - first:
+      213: 1153017005001784631
+    second: PC Computer - MapleStory - Kino_21
+  - first:
+      213: 4161872582594498910
+    second: PC Computer - MapleStory - Kino_22
+  - first:
+      213: -2005387917106016702
+    second: PC Computer - MapleStory - Kino_23
+  - first:
+      213: -5276014353530932944
+    second: PC Computer - MapleStory - Kino_24
+  - first:
+      213: -8787937259295252239
+    second: PC Computer - MapleStory - Kino_25
+  - first:
+      213: 2180191091967033469
+    second: PC Computer - MapleStory - Kino_26
+  - first:
+      213: -6821018717586103267
+    second: PC Computer - MapleStory - Kino_27
+  - first:
+      213: -2790285877009562992
+    second: PC Computer - MapleStory - Kino_28
+  - first:
+      213: 1305184916755248189
+    second: PC Computer - MapleStory - Kino_29
+  - first:
+      213: 5268038554349576278
+    second: PC Computer - MapleStory - Kino_30
+  - first:
+      213: -3812792878423903002
+    second: PC Computer - MapleStory - Kino_31
+  - first:
+      213: 8824717062204806787
+    second: PC Computer - MapleStory - Kino_32
+  - first:
+      213: -516507151371227988
+    second: PC Computer - MapleStory - Kino_33
+  - first:
+      213: -7541268527217750486
+    second: PC Computer - MapleStory - Kino_34
+  - first:
+      213: 3435030093079121215
+    second: PC Computer - MapleStory - Kino_35
+  - first:
+      213: 7697790020212507005
+    second: PC Computer - MapleStory - Kino_36
+  - first:
+      213: -6995441406896210635
+    second: PC Computer - MapleStory - Kino_37
+  - first:
+      213: 5253318029122666216
+    second: PC Computer - MapleStory - Kino_38
+  - first:
+      213: -1597329520013586336
+    second: PC Computer - MapleStory - Kino_39
+  - first:
+      213: 6523797818094170719
+    second: PC Computer - MapleStory - Kino_40
+  - first:
+      213: -7150003593971479528
+    second: PC Computer - MapleStory - Kino_41
+  - first:
+      213: 5175924962211359406
+    second: PC Computer - MapleStory - Kino_42
+  - first:
+      213: 2600191130962866827
+    second: PC Computer - MapleStory - Kino_43
+  - first:
+      213: -1823895339607207398
+    second: PC Computer - MapleStory - Kino_44
+  - first:
+      213: 5565267366704552845
+    second: PC Computer - MapleStory - Kino_45
+  - first:
+      213: -5409879851512470213
+    second: PC Computer - MapleStory - Kino_46
+  - first:
+      213: -3866543750585969602
+    second: PC Computer - MapleStory - Kino_47
+  - first:
+      213: -6263143731785102719
+    second: PC Computer - MapleStory - Kino_48
+  - first:
+      213: -98244858708421731
+    second: PC Computer - MapleStory - Kino_49
+  - first:
+      213: -5180600991908780202
+    second: PC Computer - MapleStory - Kino_50
+  - first:
+      213: -2405336526598456370
+    second: PC Computer - MapleStory - Kino_51
+  - first:
+      213: -1232447002104440593
+    second: PC Computer - MapleStory - Kino_52
+  - first:
+      213: -7441743462070248627
+    second: PC Computer - MapleStory - Kino_53
+  - first:
+      213: -2868463458473416452
+    second: PC Computer - MapleStory - Kino_54
+  - first:
+      213: -6826249787500507346
+    second: PC Computer - MapleStory - Kino_55
+  - first:
+      213: 8312635591656974415
+    second: PC Computer - MapleStory - Kino_56
+  - first:
+      213: 8533190040295768917
+    second: PC Computer - MapleStory - Kino_57
+  - first:
+      213: -3219601053153384343
+    second: PC Computer - MapleStory - Kino_58
+  - first:
+      213: -9060094784964026914
+    second: PC Computer - MapleStory - Kino_59
+  - first:
+      213: -5162632316757976528
+    second: PC Computer - MapleStory - Kino_60
+  - first:
+      213: -2765606734733981817
+    second: PC Computer - MapleStory - Kino_61
+  - first:
+      213: 3946887546974049135
+    second: PC Computer - MapleStory - Kino_62
+  - first:
+      213: -2260206555803577702
+    second: PC Computer - MapleStory - Kino_63
+  - first:
+      213: 5569321347855857946
+    second: PC Computer - MapleStory - Kino_64
+  - first:
+      213: 6140166413702993575
+    second: PC Computer - MapleStory - Kino_65
+  - first:
+      213: 6017371691751022361
+    second: PC Computer - MapleStory - Kino_66
+  - first:
+      213: 7431620099165032538
+    second: PC Computer - MapleStory - Kino_67
+  - first:
+      213: 8449882009288313031
+    second: PC Computer - MapleStory - Kino_68
+  - first:
+      213: -1211675351475768835
+    second: PC Computer - MapleStory - Kino_69
+  - first:
+      213: -7855445442782364755
+    second: PC Computer - MapleStory - Kino_70
+  - first:
+      213: -4510627578215060276
+    second: PC Computer - MapleStory - Kino_71
+  - first:
+      213: -7180425739259003140
+    second: PC Computer - MapleStory - Kino_72
+  - first:
+      213: -205707005411569826
+    second: PC Computer - MapleStory - Kino_73
+  - first:
+      213: 3377026429181846382
+    second: PC Computer - MapleStory - Kino_74
+  - first:
+      213: 2021232885945717327
+    second: PC Computer - MapleStory - Kino_75
+  - first:
+      213: -7408110133685299985
+    second: PC Computer - MapleStory - Kino_76
+  - first:
+      213: 3952305030471343111
+    second: PC Computer - MapleStory - Kino_77
+  - first:
+      213: -4460015047113841882
+    second: PC Computer - MapleStory - Kino_78
+  - first:
+      213: -4647367321244415034
+    second: PC Computer - MapleStory - Kino_79
+  - first:
+      213: -5865757515832880263
+    second: PC Computer - MapleStory - Kino_80
+  - first:
+      213: -999233438383398236
+    second: PC Computer - MapleStory - Kino_81
+  - first:
+      213: -5323913053084673613
+    second: PC Computer - MapleStory - Kino_82
+  - first:
+      213: -7451660432061723126
+    second: PC Computer - MapleStory - Kino_83
+  - first:
+      213: -6153397961881345735
+    second: PC Computer - MapleStory - Kino_84
+  - first:
+      213: 307424343462345173
+    second: PC Computer - MapleStory - Kino_85
+  - first:
+      213: 9110219437890213755
+    second: PC Computer - MapleStory - Kino_86
+  - first:
+      213: 7141427655474552960
+    second: PC Computer - MapleStory - Kino_87
+  - first:
+      213: -8210369673304103573
+    second: PC Computer - MapleStory - Kino_88
+  - first:
+      213: -4480568016888418443
+    second: PC Computer - MapleStory - Kino_89
+  - first:
+      213: 2629534588037113232
+    second: PC Computer - MapleStory - Kino_90
+  - first:
+      213: -2851468332823424211
+    second: PC Computer - MapleStory - Kino_91
+  - first:
+      213: 5970496432495658840
+    second: PC Computer - MapleStory - Kino_92
+  - first:
+      213: -8655591968705813931
+    second: PC Computer - MapleStory - Kino_93
+  - first:
+      213: -5914703636608549173
+    second: PC Computer - MapleStory - Kino_94
+  - first:
+      213: -6669679727036089356
+    second: PC Computer - MapleStory - Kino_95
+  - first:
+      213: 3740746872219649731
+    second: PC Computer - MapleStory - Kino_96
+  - first:
+      213: 8414621642003823955
+    second: PC Computer - MapleStory - Kino_97
+  - first:
+      213: 6721100752799053963
+    second: PC Computer - MapleStory - Kino_98
+  - first:
+      213: -4523143803381569526
+    second: PC Computer - MapleStory - Kino_99
+  - first:
+      213: 5830412618664164290
+    second: PC Computer - MapleStory - Kino_100
+  - first:
+      213: -7938507765425717876
+    second: PC Computer - MapleStory - Kino_101
+  - first:
+      213: 1002326772405293869
+    second: PC Computer - MapleStory - Kino_102
+  - first:
+      213: 3465098768787004032
+    second: PC Computer - MapleStory - Kino_103
+  - first:
+      213: -2301147202293952109
+    second: PC Computer - MapleStory - Kino_104
+  - first:
+      213: -9035976877488316417
+    second: PC Computer - MapleStory - Kino_105
+  - first:
+      213: 2399661802877837311
+    second: PC Computer - MapleStory - Kino_106
+  - first:
+      213: 2916028379082254616
+    second: PC Computer - MapleStory - Kino_107
+  - first:
+      213: -4979243713170000907
+    second: PC Computer - MapleStory - Kino_108
+  - first:
+      213: 80972011540500429
+    second: PC Computer - MapleStory - Kino_109
+  - first:
+      213: 4431099992077578112
+    second: PC Computer - MapleStory - Kino_110
+  - first:
+      213: 2835551632438106709
+    second: PC Computer - MapleStory - Kino_111
+  - first:
+      213: -8489012930184435006
+    second: PC Computer - MapleStory - Kino_112
+  - first:
+      213: 1791064616664921056
+    second: PC Computer - MapleStory - Kino_113
+  - first:
+      213: 5944138464397853717
+    second: PC Computer - MapleStory - Kino_114
+  - first:
+      213: -9170739029927051090
+    second: PC Computer - MapleStory - Kino_115
+  - first:
+      213: -2931977416377522326
+    second: PC Computer - MapleStory - Kino_116
+  - first:
+      213: 5097527921770750929
+    second: PC Computer - MapleStory - Kino_117
+  - first:
+      213: -3844502319067761578
+    second: PC Computer - MapleStory - Kino_118
+  - first:
+      213: 7007460522174140815
+    second: PC Computer - MapleStory - Kino_119
+  - first:
+      213: 8307049072010849158
+    second: PC Computer - MapleStory - Kino_120
+  - first:
+      213: -1448743472445767995
+    second: PC Computer - MapleStory - Kino_121
+  - first:
+      213: 4307686002528544199
+    second: PC Computer - MapleStory - Kino_122
+  - first:
+      213: -7167919173456597259
+    second: PC Computer - MapleStory - Kino_123
+  - first:
+      213: -7283907374180208068
+    second: PC Computer - MapleStory - Kino_124
+  - first:
+      213: 7942530464050623396
+    second: PC Computer - MapleStory - Kino_125
+  - first:
+      213: 8893799058004429472
+    second: PC Computer - MapleStory - Kino_126
+  - first:
+      213: -2475202530480372480
+    second: PC Computer - MapleStory - Kino_127
+  - first:
+      213: -1904879528569507957
+    second: PC Computer - MapleStory - Kino_128
+  - first:
+      213: -2055550564366612805
+    second: PC Computer - MapleStory - Kino_129
+  - first:
+      213: 2311072096241813096
+    second: PC Computer - MapleStory - Kino_130
+  - first:
+      213: -8384785510770077988
+    second: PC Computer - MapleStory - Kino_131
+  - first:
+      213: 208605721636835890
+    second: PC Computer - MapleStory - Kino_132
+  - first:
+      213: 7840654088909624218
+    second: PC Computer - MapleStory - Kino_133
+  - first:
+      213: 1605765214544853225
+    second: PC Computer - MapleStory - Kino_134
+  - first:
+      213: -7985104676173534200
+    second: PC Computer - MapleStory - Kino_135
+  - first:
+      213: -4725176645692127712
+    second: PC Computer - MapleStory - Kino_136
+  - first:
+      213: 5249899128526866686
+    second: PC Computer - MapleStory - Kino_137
+  - first:
+      213: -7415705247437036642
+    second: PC Computer - MapleStory - Kino_138
+  - first:
+      213: -988885606190717758
+    second: PC Computer - MapleStory - Kino_139
+  - first:
+      213: -6909877083418627917
+    second: PC Computer - MapleStory - Kino_140
+  - first:
+      213: 6478504839066588869
+    second: PC Computer - MapleStory - Kino_141
+  - first:
+      213: 4017990694775734736
+    second: PC Computer - MapleStory - Kino_142
+  - first:
+      213: -5166735666846630719
+    second: PC Computer - MapleStory - Kino_143
+  - first:
+      213: -9004350789429399074
+    second: PC Computer - MapleStory - Kino_144
+  - first:
+      213: 9007475196036581720
+    second: PC Computer - MapleStory - Kino_145
+  - first:
+      213: -3240029635087634096
+    second: PC Computer - MapleStory - Kino_146
+  - first:
+      213: -1710625546697010238
+    second: PC Computer - MapleStory - Kino_147
+  - first:
+      213: 5297246488990730513
+    second: PC Computer - MapleStory - Kino_148
+  - first:
+      213: -1089190846071712186
+    second: PC Computer - MapleStory - Kino_149
+  - first:
+      213: -1830134646748106091
+    second: PC Computer - MapleStory - Kino_150
+  - first:
+      213: -7594233603878227641
+    second: PC Computer - MapleStory - Kino_151
+  - first:
+      213: -3515231593940202512
+    second: PC Computer - MapleStory - Kino_152
+  - first:
+      213: -4568230579130548078
+    second: PC Computer - MapleStory - Kino_153
+  - first:
+      213: 5596128321728144377
+    second: PC Computer - MapleStory - Kino_154
+  - first:
+      213: 9154919162747615728
+    second: PC Computer - MapleStory - Kino_155
+  - first:
+      213: -3620995161241036534
+    second: PC Computer - MapleStory - Kino_156
+  - first:
+      213: 1271267444831675724
+    second: PC Computer - MapleStory - Kino_157
+  - first:
+      213: -6477716852177768824
+    second: PC Computer - MapleStory - Kino_158
+  - first:
+      213: 7409907017353239670
+    second: PC Computer - MapleStory - Kino_159
+  - first:
+      213: -6756958878762999479
+    second: PC Computer - MapleStory - Kino_160
+  - first:
+      213: 3273353553202351030
+    second: PC Computer - MapleStory - Kino_161
+  - first:
+      213: 8068520048778500834
+    second: PC Computer - MapleStory - Kino_162
+  - first:
+      213: 5081696400393299076
+    second: PC Computer - MapleStory - Kino_163
+  - first:
+      213: 1737537421336309786
+    second: PC Computer - MapleStory - Kino_164
+  - first:
+      213: 6203602580312931399
+    second: PC Computer - MapleStory - Kino_165
+  - first:
+      213: -4583678122131103015
+    second: PC Computer - MapleStory - Kino_166
+  - first:
+      213: -3915839595841563876
+    second: PC Computer - MapleStory - Kino_167
+  - first:
+      213: -6945224044504480541
+    second: PC Computer - MapleStory - Kino_168
+  - first:
+      213: 5517238172709976302
+    second: PC Computer - MapleStory - Kino_169
+  - first:
+      213: 4389011445088077328
+    second: PC Computer - MapleStory - Kino_170
+  - first:
+      213: 2882440105694451827
+    second: PC Computer - MapleStory - Kino_171
+  - first:
+      213: -2526446956651197560
+    second: PC Computer - MapleStory - Kino_172
+  - first:
+      213: -7152527630280673049
+    second: PC Computer - MapleStory - Kino_173
+  - first:
+      213: 3609792831211331415
+    second: PC Computer - MapleStory - Kino_174
+  - first:
+      213: 8200395367384794352
+    second: PC Computer - MapleStory - Kino_175
+  - first:
+      213: 3800641353723488491
+    second: PC Computer - MapleStory - Kino_176
+  - first:
+      213: -6196314383501173628
+    second: PC Computer - MapleStory - Kino_177
+  - first:
+      213: -9093757215407734592
+    second: PC Computer - MapleStory - Kino_178
+  - first:
+      213: -276871333191474132
+    second: PC Computer - MapleStory - Kino_179
+  - first:
+      213: 6424198333262209774
+    second: PC Computer - MapleStory - Kino_180
+  - first:
+      213: -3024774688488738191
+    second: PC Computer - MapleStory - Kino_181
+  - first:
+      213: 8142726110696456072
+    second: PC Computer - MapleStory - Kino_182
+  - first:
+      213: -8860307434845726985
+    second: PC Computer - MapleStory - Kino_183
+  - first:
+      213: 6439671288093200386
+    second: PC Computer - MapleStory - Kino_184
+  - first:
+      213: -6762345610661737691
+    second: PC Computer - MapleStory - Kino_185
+  - first:
+      213: -6069552738776460617
+    second: PC Computer - MapleStory - Kino_186
+  - first:
+      213: 1850961953710874376
+    second: PC Computer - MapleStory - Kino_187
+  - first:
+      213: -4830928158270366268
+    second: PC Computer - MapleStory - Kino_188
+  - first:
+      213: 5557295184555465692
+    second: PC Computer - MapleStory - Kino_189
+  - first:
+      213: -5633423883816276789
+    second: PC Computer - MapleStory - Kino_190
+  - first:
+      213: 3086412643447840169
+    second: PC Computer - MapleStory - Kino_191
+  - first:
+      213: -3843271634385848957
+    second: PC Computer - MapleStory - Kino_192
+  - first:
+      213: -3980960004150924678
+    second: PC Computer - MapleStory - Kino_193
+  - first:
+      213: -3568914966324885681
+    second: PC Computer - MapleStory - Kino_194
+  - first:
+      213: 7327057299445453437
+    second: PC Computer - MapleStory - Kino_195
+  - first:
+      213: -2384175210020027879
+    second: PC Computer - MapleStory - Kino_196
+  - first:
+      213: -5810263852793318711
+    second: PC Computer - MapleStory - Kino_197
+  - first:
+      213: -1538988449969570390
+    second: PC Computer - MapleStory - Kino_198
+  - first:
+      213: -2008449724710090093
+    second: PC Computer - MapleStory - Kino_199
+  - first:
+      213: 1688918492086843154
+    second: PC Computer - MapleStory - Kino_200
+  - first:
+      213: 2086464907212986993
+    second: PC Computer - MapleStory - Kino_201
+  - first:
+      213: 4703752813725021444
+    second: PC Computer - MapleStory - Kino_202
+  - first:
+      213: 4283819818892112105
+    second: PC Computer - MapleStory - Kino_203
+  - first:
+      213: -1290869716541492497
+    second: PC Computer - MapleStory - Kino_204
+  - first:
+      213: 5065301498163639011
+    second: PC Computer - MapleStory - Kino_205
+  - first:
+      213: -4529054479695721703
+    second: PC Computer - MapleStory - Kino_206
+  - first:
+      213: 7812092022437961252
+    second: PC Computer - MapleStory - Kino_207
+  - first:
+      213: -7498383162344456400
+    second: PC Computer - MapleStory - Kino_208
+  - first:
+      213: 6369829463061191507
+    second: PC Computer - MapleStory - Kino_209
+  - first:
+      213: 3295302251221135135
+    second: PC Computer - MapleStory - Kino_210
+  - first:
+      213: -6114890251445122148
+    second: PC Computer - MapleStory - Kino_211
+  - first:
+      213: 1250725196241695826
+    second: PC Computer - MapleStory - Kino_212
+  - first:
+      213: 3322283059458244580
+    second: PC Computer - MapleStory - Kino_213
+  - first:
+      213: -1230558032652788913
+    second: PC Computer - MapleStory - Kino_214
+  - first:
+      213: -5181008793525428248
+    second: PC Computer - MapleStory - Kino_215
+  - first:
+      213: -4838297773234274946
+    second: PC Computer - MapleStory - Kino_216
+  - first:
+      213: -574945090074931345
+    second: PC Computer - MapleStory - Kino_217
+  - first:
+      213: 3138184820749710159
+    second: PC Computer - MapleStory - Kino_218
+  - first:
+      213: 2884262489724799410
+    second: PC Computer - MapleStory - Kino_219
+  - first:
+      213: -3475109745345921214
+    second: PC Computer - MapleStory - Kino_220
+  - first:
+      213: -2394659665821020611
+    second: PC Computer - MapleStory - Kino_221
+  - first:
+      213: 8470658735368921510
+    second: PC Computer - MapleStory - Kino_222
+  - first:
+      213: -2686080844208421144
+    second: PC Computer - MapleStory - Kino_223
+  - first:
+      213: 4524267685104991512
+    second: PC Computer - MapleStory - Kino_224
+  - first:
+      213: -8575539550196139318
+    second: PC Computer - MapleStory - Kino_225
+  - first:
+      213: -2210137628377697743
+    second: PC Computer - MapleStory - Kino_226
+  - first:
+      213: -6146467332154031579
+    second: PC Computer - MapleStory - Kino_227
+  - first:
+      213: 4235030370901711250
+    second: PC Computer - MapleStory - Kino_228
+  - first:
+      213: 7757459926844279229
+    second: PC Computer - MapleStory - Kino_229
+  - first:
+      213: 734846679878223133
+    second: PC Computer - MapleStory - Kino_230
+  - first:
+      213: 1751914291076546617
+    second: PC Computer - MapleStory - Kino_231
+  - first:
+      213: 178625028196543741
+    second: PC Computer - MapleStory - Kino_232
+  - first:
+      213: 1023168984687327015
+    second: PC Computer - MapleStory - Kino_233
+  - first:
+      213: -5138820490224850283
+    second: PC Computer - MapleStory - Kino_234
+  - first:
+      213: 6469314283214091672
+    second: PC Computer - MapleStory - Kino_235
+  - first:
+      213: 4697424552397995347
+    second: PC Computer - MapleStory - Kino_236
+  - first:
+      213: 2968500373993085737
+    second: PC Computer - MapleStory - Kino_237
+  - first:
+      213: 7787068890317438639
+    second: PC Computer - MapleStory - Kino_238
+  - first:
+      213: 2081318806295161561
+    second: PC Computer - MapleStory - Kino_239
+  - first:
+      213: 4576414128886853222
+    second: PC Computer - MapleStory - Kino_240
+  - first:
+      213: -4746682716778007261
+    second: PC Computer - MapleStory - Kino_241
+  - first:
+      213: -3968014036589760585
+    second: PC Computer - MapleStory - Kino_242
+  - first:
+      213: -8902191055322036155
+    second: PC Computer - MapleStory - Kino_243
+  - first:
+      213: 41634446290942746
+    second: PC Computer - MapleStory - Kino_244
+  - first:
+      213: 330965248872073412
+    second: PC Computer - MapleStory - Kino_245
+  - first:
+      213: -1720141796376186748
+    second: PC Computer - MapleStory - Kino_246
+  - first:
+      213: 8675732130723178526
+    second: PC Computer - MapleStory - Kino_247
+  - first:
+      213: 2840962648245404328
+    second: PC Computer - MapleStory - Kino_248
+  - first:
+      213: -3498047784597182242
+    second: PC Computer - MapleStory - Kino_249
+  - first:
+      213: -8728480160822586060
+    second: PC Computer - MapleStory - Kino_250
+  - first:
+      213: -7625059336404354805
+    second: PC Computer - MapleStory - Kino_251
+  - first:
+      213: -1884421967267489565
+    second: PC Computer - MapleStory - Kino_252
+  - first:
+      213: -7689887367908691745
+    second: PC Computer - MapleStory - Kino_253
+  - first:
+      213: 8797595065000550352
+    second: PC Computer - MapleStory - Kino_254
+  - first:
+      213: -7364681230350258429
+    second: PC Computer - MapleStory - Kino_255
+  - first:
+      213: 6978959331662789039
+    second: PC Computer - MapleStory - Kino_256
+  - first:
+      213: -6283592297731144336
+    second: PC Computer - MapleStory - Kino_257
+  - first:
+      213: -4525913963980024062
+    second: PC Computer - MapleStory - Kino_258
+  - first:
+      213: 776721338799560789
+    second: PC Computer - MapleStory - Kino_259
+  - first:
+      213: 3681196501326695839
+    second: PC Computer - MapleStory - Kino_260
+  - first:
+      213: 1618027100760466728
+    second: PC Computer - MapleStory - Kino_261
+  - first:
+      213: -9163777512990149217
+    second: PC Computer - MapleStory - Kino_262
+  - first:
+      213: 36477264709569168
+    second: PC Computer - MapleStory - Kino_263
+  - first:
+      213: -871075890109783991
+    second: PC Computer - MapleStory - Kino_264
+  - first:
+      213: 1201149871016348554
+    second: PC Computer - MapleStory - Kino_265
+  - first:
+      213: -2492271408934546817
+    second: PC Computer - MapleStory - Kino_266
+  - first:
+      213: 8019516709233187189
+    second: PC Computer - MapleStory - Kino_267
+  - first:
+      213: -3945840993969213874
+    second: PC Computer - MapleStory - Kino_268
+  - first:
+      213: 5432430239949591823
+    second: PC Computer - MapleStory - Kino_269
+  - first:
+      213: 8130342600594656660
+    second: PC Computer - MapleStory - Kino_270
+  - first:
+      213: -4720180059315940386
+    second: PC Computer - MapleStory - Kino_271
+  - first:
+      213: 1040971817041808325
+    second: PC Computer - MapleStory - Kino_272
+  - first:
+      213: 8721503450114967266
+    second: PC Computer - MapleStory - Kino_273
+  - first:
+      213: -6810084639917258829
+    second: PC Computer - MapleStory - Kino_274
+  - first:
+      213: 3827324119045230058
+    second: PC Computer - MapleStory - Kino_275
+  - first:
+      213: -5195296119914717232
+    second: PC Computer - MapleStory - Kino_276
+  - first:
+      213: -7758498061215704645
+    second: PC Computer - MapleStory - Kino_277
+  - first:
+      213: 2227397047509812878
+    second: PC Computer - MapleStory - Kino_278
+  - first:
+      213: -2902785568611258774
+    second: PC Computer - MapleStory - Kino_279
+  - first:
+      213: -7388740844176833351
+    second: PC Computer - MapleStory - Kino_280
+  - first:
+      213: -2239341792224504789
+    second: PC Computer - MapleStory - Kino_281
+  - first:
+      213: -8791865420428287860
+    second: PC Computer - MapleStory - Kino_282
+  - first:
+      213: 2892782176727188799
+    second: PC Computer - MapleStory - Kino_283
+  - first:
+      213: -5253633874926698350
+    second: PC Computer - MapleStory - Kino_284
+  - first:
+      213: -1479358681057111229
+    second: PC Computer - MapleStory - Kino_285
+  - first:
+      213: -8559457107256049640
+    second: PC Computer - MapleStory - Kino_286
+  - first:
+      213: -4839451147681087011
+    second: PC Computer - MapleStory - Kino_287
+  - first:
+      213: -4125969141158029772
+    second: PC Computer - MapleStory - Kino_288
+  - first:
+      213: 1752664028181697989
+    second: PC Computer - MapleStory - Kino_289
+  - first:
+      213: 3123595551571211790
+    second: PC Computer - MapleStory - Kino_290
+  - first:
+      213: 5979868138212474191
+    second: PC Computer - MapleStory - Kino_291
+  - first:
+      213: -248425931755464596
+    second: PC Computer - MapleStory - Kino_292
+  - first:
+      213: 1550776004532563127
+    second: PC Computer - MapleStory - Kino_293
+  - first:
+      213: -3841267603726071195
+    second: PC Computer - MapleStory - Kino_294
+  - first:
+      213: 5763095422702374018
+    second: PC Computer - MapleStory - Kino_295
+  - first:
+      213: -1183511595515345511
+    second: PC Computer - MapleStory - Kino_296
+  - first:
+      213: -886338005355560597
+    second: PC Computer - MapleStory - Kino_297
+  - first:
+      213: -6069786243340577721
+    second: PC Computer - MapleStory - Kino_298
+  - first:
+      213: 1486154405546043423
+    second: PC Computer - MapleStory - Kino_299
+  - first:
+      213: -824111123462769798
+    second: PC Computer - MapleStory - Kino_300
+  - first:
+      213: -4076802789530521223
+    second: PC Computer - MapleStory - Kino_301
+  - first:
+      213: 682931116127427769
+    second: PC Computer - MapleStory - Kino_302
+  - first:
+      213: 6142600093898192731
+    second: PC Computer - MapleStory - Kino_303
+  - first:
+      213: 4389221016583998131
+    second: PC Computer - MapleStory - Kino_304
+  - first:
+      213: 6470738388983936901
+    second: PC Computer - MapleStory - Kino_305
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1326
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1686fd6d0e3fea1d0800000000000000
+      internalID: -3337462126831769503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1326
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7793446d02fc99f0800000000000000
+      internalID: -460226922567985281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1326
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fdd0a7e88071490800000000000000
+      internalID: -7775736823605764218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1326
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb93addbd940dc90800000000000000
+      internalID: -7147131399971824695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1326
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf1227cc9542d670800000000000000
+      internalID: 8561982381242851271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1244
+        width: 309
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781ce19174be80d90800000000000000
+      internalID: -7131191319344529017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1284
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31643671b6fee18c0800000000000000
+      internalID: -4026517773589723629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1284
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dfea8834c058a00800000000000000
+      internalID: 758025596477308162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1284
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4bbec091f70cef0800000000000000
+      internalID: -89932246979726126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1284
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0af17900b6f7e4c0800000000000000
+      internalID: -4258163686722373107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1269
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3233e988c0d2b7c20800000000000000
+      internalID: 3205205091659166499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1269
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcffaed50c42bfd40800000000000000
+      internalID: 5619125368702828495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1269
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88788c8d7d44afd0800000000000000
+      internalID: -2331653505447069555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1269
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c756ebf296196d650800000000000000
+      internalID: 6257348613236483452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1269
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb942d7047d70e90800000000000000
+      internalID: -7059437218902533190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1269
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bbcb81022064d60800000000000000
+      internalID: 7873983335381121927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1227
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ad3cb510f4448a0800000000000000
+      internalID: -6321841109668210072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1227
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64a37704e642e200800000000000000
+      internalID: 207806478003971179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1227
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2981828c889247f0800000000000000
+      internalID: -629773268626077393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1227
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676cdeff01e39f8f0800000000000000
+      internalID: -506305240368298378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1227
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1242c61e5bae0d250800000000000000
+      internalID: 5967527573157848097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1214
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dbd1b6bd6500010800000000000000
+      internalID: 1153017005001784631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1214
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e519bf53011f1c930800000000000000
+      internalID: 4161872582594498910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1214
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e090c705e6b24e0800000000000000
+      internalID: -2005387917106016702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1214
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0313de326e4d7c6b0800000000000000
+      internalID: -5276014353530932944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1213
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f069478f99fa0680800000000000000
+      internalID: -8787937259295252239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1214
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d708a2b3f38914e10800000000000000
+      internalID: 2180191091967033469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1214
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d146dfb9d9fd651a0800000000000000
+      internalID: -6821018717586103267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1155
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0924e0747c9e649d0800000000000000
+      internalID: -2790285877009562992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1183
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34f46144c2fc1210800000000000000
+      internalID: 1305184916755248189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_30
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1155
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650a1176725db1940800000000000000
+      internalID: 5268038554349576278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_31
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1183
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4776ff31d361bc0800000000000000
+      internalID: -3812792878423903002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1155
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386db08a961b77a70800000000000000
+      internalID: 8824717062204806787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1183
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caca19e7b7ff4d8f0800000000000000
+      internalID: -516507151371227988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1155
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e4a57da38085790800000000000000
+      internalID: -7541268527217750486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_35
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1183
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d02ca8badabaf20800000000000000
+      internalID: 3435030093079121215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_36
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1155
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71405e1d3b04da60800000000000000
+      internalID: 7697790020212507005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1183
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d74e69a133bee90800000000000000
+      internalID: -6995441406896210635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_38
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1155
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eef20a0ae887e840800000000000000
+      internalID: 5253318029122666216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_39
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1183
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060585ab34525d9e0800000000000000
+      internalID: -1597329520013586336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_40
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1155
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52b8fd0d8f298a50800000000000000
+      internalID: 6523797818094170719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_41
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1183
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c40961d9516cc90800000000000000
+      internalID: -7150003593971479528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_42
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1155
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa6fa4745494d740800000000000000
+      internalID: 5175924962211359406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_43
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1183
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82b925ae0cb51420800000000000000
+      internalID: 2600191130962866827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12d83f1ad830b6e0800000000000000
+      internalID: -1823895339607207398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1143
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b9f781f2dcb3d40800000000000000
+      internalID: 5565267366704552845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1143
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b356e0510fe3ce4b0800000000000000
+      internalID: -5409879851512470213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_47
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1143
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3411d5d1f6475ac0800000000000000
+      internalID: -3866543750585969602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1101
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a0cb1a5f7d419a0800000000000000
+      internalID: -6263143731785102719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1101
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d931daf42d6f2aef0800000000000000
+      internalID: -98244858708421731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_50
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1104
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657ad3a88deca18b0800000000000000
+      internalID: -5180600991908780202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_51
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1106
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbb3de4c278e9ed0800000000000000
+      internalID: -2405336526598456370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_52
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1106
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8d11b3bf775eee0800000000000000
+      internalID: -1232447002104440593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_53
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1104
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b97b1dfbd99b890800000000000000
+      internalID: -7441743462070248627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1090
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8e08aaeab2138d0800000000000000
+      internalID: -2868463458473416452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1090
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f42fb3cf94441a0800000000000000
+      internalID: -6826249787500507346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1090
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48abf3470a6c5370800000000000000
+      internalID: 8312635591656974415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_57
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1088
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5530bb0812bfb6670800000000000000
+      internalID: 8533190040295768917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1090
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968a15c76eda153d0800000000000000
+      internalID: -3219601053153384343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_59
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1090
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd99d6abc3144280800000000000000
+      internalID: -9060094784964026914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_60
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1090
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a50bdb245aa58b0800000000000000
+      internalID: -5162632316757976528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_61
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1088
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787c0cbd3579e99d0800000000000000
+      internalID: -2765606734733981817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1045
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f631dcdff4926c630800000000000000
+      internalID: 3946887546974049135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_63
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1045
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a929152dc1222a0e0800000000000000
+      internalID: -2260206555803577702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1032
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19b2f222443a4d40800000000000000
+      internalID: 5569321347855857946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1032
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a61d8e32d0463550800000000000000
+      internalID: 6140166413702993575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1032
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f9f481caff18350800000000000000
+      internalID: 6017371691751022361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_67
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 990
+        width: 8
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5092641b1b622760800000000000000
+      internalID: 7431620099165032538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_68
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 990
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c808950be2044570800000000000000
+      internalID: 8449882009288313031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_69
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 990
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1b03400b34f2fe0800000000000000
+      internalID: -1211675351475768835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 992
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabfe7e5df9dbf290800000000000000
+      internalID: -7855445442782364755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_71
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 992
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc296ead180761c0800000000000000
+      internalID: -4510627578215060276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_72
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1012
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe356b65d00a5c90800000000000000
+      internalID: -7180425739259003140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_73
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1009
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f42a6819e252df0800000000000000
+      internalID: -205707005411569826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_74
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 992
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e636d7425ab9dde20800000000000000
+      internalID: 3377026429181846382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1007
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42d12fc99cdc0c10800000000000000
+      internalID: 2021232885945717327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_76
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1002
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe457b0551b113990800000000000000
+      internalID: -7408110133685299985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_77
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1001
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cdb392c7869d630800000000000000
+      internalID: 3952305030471343111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 979
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623e1efd1f7da12c0800000000000000
+      internalID: -4460015047113841882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 979
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbc77c4b0c318fb0800000000000000
+      internalID: -4647367321244415034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 979
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97314321e94a89ea0800000000000000
+      internalID: -5865757515832880263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 979
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a227716b720222f0800000000000000
+      internalID: -999233438383398236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_82
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 939
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b992d71949ad16b0800000000000000
+      internalID: -5323913053084673613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 939
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e80205152669890800000000000000
+      internalID: -7451660432061723126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_84
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 939
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9312370e72dba9aa0800000000000000
+      internalID: -6153397961881345735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_85
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 939
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d97163cfc0344400800000000000000
+      internalID: 307424343462345173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_86
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 939
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b771e4d8f400e6e70800000000000000
+      internalID: 9110219437890213755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_87
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 939
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08026b1ad927b1360800000000000000
+      internalID: 7141427655474552960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_88
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 939
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65a1145848ee0e80800000000000000
+      internalID: -8210369673304103573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_89
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 939
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fa361b023d1d1c0800000000000000
+      internalID: -4480568016888418443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 929
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0952e84a6cbfd7420800000000000000
+      internalID: 2629534588037113232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_91
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 929
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23d8c5b8ac8d68d0800000000000000
+      internalID: -2851468332823424211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_92
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 929
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85704af4fd67bd250800000000000000
+      internalID: 5970496432495658840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_93
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 879
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552e098b6f821e780800000000000000
+      internalID: -8655591968705813931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_94
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 909
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce7c344160caeda0800000000000000
+      internalID: -5914703636608549173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_95
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 879
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbb36030a98073a0800000000000000
+      internalID: -6669679727036089356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 868
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c64e41067dc9e330800000000000000
+      internalID: 3740746872219649731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_97
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 868
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35db3f20dcdb6c470800000000000000
+      internalID: 8414621642003823955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_98
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 868
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88b2365685264d50800000000000000
+      internalID: 6721100752799053963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_99
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 866
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08ae6beca09a31c0800000000000000
+      internalID: -4523143803381569526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_100
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 866
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbbe65c269c9e050800000000000000
+      internalID: 5830412618664164290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_101
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 845
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dbe135f31c4d190800000000000000
+      internalID: -7938507765425717876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_102
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 850
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23d41293eaf8ed00800000000000000
+      internalID: 1002326772405293869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_103
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 811
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a5139a8f0861030800000000000000
+      internalID: 3465098768787004032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_104
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 847
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391926fbfcea010e0800000000000000
+      internalID: -2301147202293952109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_105
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 847
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff5aa297e2c99280800000000000000
+      internalID: -9035976877488316417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 846
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff5b9d12bf4d4120800000000000000
+      internalID: 2399661802877837311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_107
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 810
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819e72a6c50d77820800000000000000
+      internalID: 2916028379082254616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_108
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 810
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3b76a593c26eab0800000000000000
+      internalID: -4979243713170000907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_109
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 848
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfce909d9baf1100800000000000000
+      internalID: 80972011540500429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_110
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 842
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f250047fd6e7d30800000000000000
+      internalID: 4431099992077578112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_111
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 849
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a90c1bf27e95720800000000000000
+      internalID: 2835551632438106709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_112
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 811
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caa8aa77b7f03a80800000000000000
+      internalID: -8489012930184435006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_113
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 811
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3751687c32bd810800000000000000
+      internalID: 1791064616664921056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_114
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 811
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5148b22a072dd7250800000000000000
+      internalID: 5944138464397853717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_115
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 811
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea04361e07dfab080800000000000000
+      internalID: -9170739029927051090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_116
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 810
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67a957f2168f47d0800000000000000
+      internalID: -2931977416377522326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 801
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3e7c113ae0eb640800000000000000
+      internalID: 5097527921770750929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_118
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 801
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654fcc5828595aac0800000000000000
+      internalID: -3844502319067761578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_119
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 801
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8153c1c7308f3160800000000000000
+      internalID: 7007460522174140815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_120
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 801
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68be1fc4e11984370800000000000000
+      internalID: 8307049072010849158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_121
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 779
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce3432dc7705ebe0800000000000000
+      internalID: -1448743472445767995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_122
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 777
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5e2a0a899f7cb30800000000000000
+      internalID: 4307686002528544199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_123
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 778
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe686f2d7f668c90800000000000000
+      internalID: -7167919173456597259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_124
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 776
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32f321c5dc5aea90800000000000000
+      internalID: -7283907374180208068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_125
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 780
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3b47f2069893e60800000000000000
+      internalID: 7942530464050623396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_126
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 778
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aace043f1f1d6b70800000000000000
+      internalID: 8893799058004429472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_127
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 785
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005c197a96056add0800000000000000
+      internalID: -2475202530480372480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_128
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 790
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f63b749228095e0800000000000000
+      internalID: -1904879528569507957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_129
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 783
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6031907a73973e0800000000000000
+      internalID: -2055550564366612805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_130
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 751
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8668fc2b3d3921020800000000000000
+      internalID: 2311072096241813096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_131
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 751
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde05b0a00243ab80800000000000000
+      internalID: -8384785510770077988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_132
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 751
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23217407ccd15e200800000000000000
+      internalID: 208605721636835890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_133
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 751
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a931c203a599fcc60800000000000000
+      internalID: 7840654088909624218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_134
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 738
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8ff9574f2d84610800000000000000
+      internalID: 1605765214544853225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_135
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 736
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cad5a9a953f2190800000000000000
+      internalID: -7985104676173534200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_136
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 695
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0268c8430eccc6eb0800000000000000
+      internalID: -4725176645692127712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_137
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 703
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef80a7631736bd840800000000000000
+      internalID: 5249899128526866686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_138
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 695
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93e3871e5f161990800000000000000
+      internalID: -7415705247437036642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_139
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 695
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4618fc7c5c642f0800000000000000
+      internalID: -988885606190717758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_140
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 695
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b07839176f2b10a0800000000000000
+      internalID: -6909877083418627917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_141
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 695
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6963893d548e950800000000000000
+      internalID: 6478504839066588869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_142
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 695
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1cee8af35c2c730800000000000000
+      internalID: 4017990694775734736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_143
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 694
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccf34919411c48b0800000000000000
+      internalID: -5166735666846630719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_144
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 702
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed17d030aae1a0380800000000000000
+      internalID: -9004350789429399074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_145
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 694
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85907e697faf00d70800000000000000
+      internalID: 9007475196036581720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_146
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 694
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051fcda963a1903d0800000000000000
+      internalID: -3240029635087634096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_147
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 694
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c39a69e023a248e0800000000000000
+      internalID: -1710625546697010238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_148
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 694
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1194aff9d99938940800000000000000
+      internalID: 5297246488990730513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_149
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 694
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646d94f32ba62e0f0800000000000000
+      internalID: -1089190846071712186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_150
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 698
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592b1793c3e0a96e0800000000000000
+      internalID: -1830134646748106091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_151
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 695
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741f083f5ccdb9690800000000000000
+      internalID: -7594233603878227641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_152
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 697
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbc6f36d73673fc0800000000000000
+      internalID: -3515231593940202512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_153
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 694
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290c8d6ed726a90c0800000000000000
+      internalID: -4568230579130548078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_154
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 682
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3eb1e1f0179ad40800000000000000
+      internalID: 5596128321728144377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_155
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 682
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9fcf2497ecc0f70800000000000000
+      internalID: 9154919162747615728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_156
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 680
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09d1d0f514afbdc0800000000000000
+      internalID: -3620995161241036534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_157
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 680
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45e5bf610374a110800000000000000
+      internalID: 1271267444831675724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_158
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 634
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ee166e7d68a16a0800000000000000
+      internalID: -6477716852177768824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_159
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 631
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c93044c2745d660800000000000000
+      internalID: 7409907017353239670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_160
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 630
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941e86d13b57a32a0800000000000000
+      internalID: -6756958878762999479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_161
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 630
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb83e2b6b94d6d20800000000000000
+      internalID: 3273353553202351030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_162
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 629
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea5f8a4c3429ff60800000000000000
+      internalID: 8068520048778500834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_163
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 634
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484e2d1c3ffc58640800000000000000
+      internalID: 5081696400393299076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_164
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 624
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10f2be2419fc1810800000000000000
+      internalID: 1737537421336309786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_165
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 668
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cbf3fbdaf971650800000000000000
+      internalID: 6203602580312931399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_166
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 634
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d265a588018360c0800000000000000
+      internalID: -4583678122131103015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_167
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 660
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13547472a428a9c0800000000000000
+      internalID: -3915839595841563876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_168
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 653
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e40fc5678b9d9f90800000000000000
+      internalID: -6945224044504480541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_169
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 640
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee87a91f2ea219c40800000000000000
+      internalID: 5517238172709976302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_170
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 641
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0164993c7a6e8ec30800000000000000
+      internalID: 4389011445088077328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_171
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 639
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378d14a110c700820800000000000000
+      internalID: 2882440105694451827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_172
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 633
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b40fce0e140fcd0800000000000000
+      internalID: -2526446956651197560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_173
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 625
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e834f6140e1dbc90800000000000000
+      internalID: -7152527630280673049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_174
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 636
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f5a19547f881230800000000000000
+      internalID: 3609792831211331415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_175
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 622
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4caba9328adc170800000000000000
+      internalID: 8200395367384794352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_176
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 557
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8295fac279eb430800000000000000
+      internalID: 3800641353723488491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_177
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 557
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cd4cec5e4420aa0800000000000000
+      internalID: -6196314383501173628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_178
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 557
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c00afd4efb7cc180800000000000000
+      internalID: -9093757215407734592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_179
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 557
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2422a84dfa582cf0800000000000000
+      internalID: -276871333191474132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_180
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 557
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee220c4e856572950800000000000000
+      internalID: 6424198333262209774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_181
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 557
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172390f5277d506d0800000000000000
+      internalID: -3024774688488738191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_182
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 557
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f3c537146c00170800000000000000
+      internalID: 8142726110696456072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_183
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 557
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f69449f45dd90580800000000000000
+      internalID: -8860307434845726985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_184
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 553
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200d31deaee4e5950800000000000000
+      internalID: 6439671288093200386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_185
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 555
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bc51cde725722a0800000000000000
+      internalID: -6762345610661737691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_186
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 553
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2dab321fd94cba0800000000000000
+      internalID: -6069552738776460617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_187
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 542
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f13bf0710ffa910800000000000000
+      internalID: 1850961953710874376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_188
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 542
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cddcd67f6815fcb0800000000000000
+      internalID: -4830928158270366268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_189
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 542
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbda6bc68a7f1d40800000000000000
+      internalID: 5557295184555465692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_190
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 542
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccede723de02d1b0800000000000000
+      internalID: -5633423883816276789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_191
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 540
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad9bfa52f325da20800000000000000
+      internalID: 3086412643447840169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_192
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 491
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385b811afc4f9aac0800000000000000
+      internalID: -3843271634385848957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_193
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 491
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aeb8fd7f9c0c8c0800000000000000
+      internalID: -3980960004150924678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_194
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 491
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4741ae3fbaa87ec0800000000000000
+      internalID: -3568914966324885681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_195
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 517
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72116e1bcfeea560800000000000000
+      internalID: 7327057299445453437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 519
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912c6744745b9eed0800000000000000
+      internalID: -2384175210020027879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_197
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 523
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c236fa5fcbcd5fa0800000000000000
+      internalID: -5810263852793318711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_198
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 520
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad722e982a64aae0800000000000000
+      internalID: -1538988449969570390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_199
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 522
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a8c69dd9d8024e0800000000000000
+      internalID: -2008449724710090093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_200
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 526
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217bc679b6e307710800000000000000
+      internalID: 1688918492086843154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_201
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 491
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a9fbe47cc94fc10800000000000000
+      internalID: 2086464907212986993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_202
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 514
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405f2553346174140800000000000000
+      internalID: 4703752813725021444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_203
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 491
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0b7dabd6f237b30800000000000000
+      internalID: 4283819818892112105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_204
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 514
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe23c3605d8e51ee0800000000000000
+      internalID: -1290869716541492497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_205
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 491
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e23c4e10e09b4640800000000000000
+      internalID: 5065301498163639011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_206
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 517
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b485952f09521c0800000000000000
+      internalID: -4529054479695721703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_207
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 491
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ed31edd402a6c60800000000000000
+      internalID: 7812092022437961252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_208
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 479
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f30b2fd3460f790800000000000000
+      internalID: -7498383162344456400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_209
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 479
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b5499d52e266850800000000000000
+      internalID: 6369829463061191507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_210
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 479
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fa49f20f34bbd20800000000000000
+      internalID: 3295302251221135135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_211
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 477
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b4d12e6bb832ba0800000000000000
+      internalID: -6114890251445122148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_212
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 416
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254fd9970f77b5110800000000000000
+      internalID: 1250725196241695826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_213
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 450
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef7e4227de1b1e20800000000000000
+      internalID: 3322283059458244580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_214
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 451
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b1a343dfd2ceee0800000000000000
+      internalID: -1230558032652788913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_215
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 458
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efddb3d3fb5918b0800000000000000
+      internalID: -5181008793525428248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_216
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 416
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dbec44fc9eadcb0800000000000000
+      internalID: -4838297773234274946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_217
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 416
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f8abc9c726508f0800000000000000
+      internalID: -574945090074931345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_218
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 416
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f433f48b7721d8b20800000000000000
+      internalID: 3138184820749710159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_219
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 416
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9c703f375f60820800000000000000
+      internalID: 2884262489724799410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_220
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 416
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f7829391ee5cfc0800000000000000
+      internalID: -3475109745345921214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_221
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 405
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e48cca8b574ced0800000000000000
+      internalID: -2394659665821020611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_222
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 405
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a169378d33dd8570800000000000000
+      internalID: 8470658735368921510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_223
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 405
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6c9f224bf19bad0800000000000000
+      internalID: -2686080844208421144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_224
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 405
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d367f2d7d69ce30800000000000000
+      internalID: 4524267685104991512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_225
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 405
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acafe39d6309df880800000000000000
+      internalID: -8575539550196139318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_226
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 405
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132b2db69830451e0800000000000000
+      internalID: -2210137628377697743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_227
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 405
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5228a6bd68c53baa0800000000000000
+      internalID: -6146467332154031579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_228
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 357
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29956962fa9d5ca30800000000000000
+      internalID: 4235030370901711250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_229
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 357
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db981e2e3b808ab60800000000000000
+      internalID: 7757459926844279229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_230
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 357
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1544867923b23a00800000000000000
+      internalID: 734846679878223133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_231
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 357
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9304c8404cc005810800000000000000
+      internalID: 1751914291076546617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_232
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 357
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc26a9448a9a7200800000000000000
+      internalID: 178625028196543741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_233
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 357
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7273c7545c6033e00800000000000000
+      internalID: 1023168984687327015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_234
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 357
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a26a3adfd3fa8b0800000000000000
+      internalID: -5138820490224850283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_235
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 357
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895365f801f97c950800000000000000
+      internalID: 6469314283214091672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_236
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 346
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d71ec0eba903140800000000000000
+      internalID: 4697424552397995347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_237
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 346
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bd873cc5b323920800000000000000
+      internalID: 2968500373993085737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_238
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 346
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faebdd8e5e9311c60800000000000000
+      internalID: 7787068890317438639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_239
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 346
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da20915d6452ec10800000000000000
+      internalID: 2081318806295161561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_240
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 304
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e21614760b28f30800000000000000
+      internalID: 4576414128886853222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_241
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 304
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325f5f4d735602eb0800000000000000
+      internalID: -4746682716778007261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_242
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 304
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfad45d148cee8c0800000000000000
+      internalID: -3968014036589760585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_243
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 304
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548ced8a660157480800000000000000
+      internalID: -8902191055322036155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_244
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 304
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b779dee4ae39000800000000000000
+      internalID: 41634446290942746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_245
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 304
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8c40ce323d79400800000000000000
+      internalID: 330965248872073412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_246
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 304
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480f1bf5624d028e0800000000000000
+      internalID: -1720141796376186748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_247
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 304
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18a23a2864666870800000000000000
+      internalID: 8675732130723178526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_248
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 304
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a202dcf9702d6720800000000000000
+      internalID: 2840962648245404328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_249
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 304
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed82eb7c210747fc0800000000000000
+      internalID: -3498047784597182242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_250
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 292
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43510290a853ed680800000000000000
+      internalID: -8728480160822586060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_251
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 292
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09b75ecee85e2690800000000000000
+      internalID: -7625059336404354805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_252
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 292
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e81412743039d5e0800000000000000
+      internalID: -1884421967267489565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_253
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 290
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0f9018e28084590800000000000000
+      internalID: -7689887367908691745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_254
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 250
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df56179916571a70800000000000000
+      internalID: 8797595065000550352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_255
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 250
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f6cf4d0756bc990800000000000000
+      internalID: -7364681230350258429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_256
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 237
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa978a9398e3ad060800000000000000
+      internalID: 6978959331662789039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_257
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 237
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075ca5cd8123cc8a0800000000000000
+      internalID: -6283592297731144336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_258
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 237
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2079df4aa39b031c0800000000000000
+      internalID: -4525913963980024062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_259
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 237
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5581d9041f777ca00800000000000000
+      internalID: 776721338799560789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_260
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 237
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d0df1d6bc361330800000000000000
+      internalID: 3681196501326695839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_261
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 237
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82568c15313647610800000000000000
+      internalID: 1618027100760466728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_262
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 237
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95728957e8b3d080800000000000000
+      internalID: -9163777512990149217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_263
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 187
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a446501e7918000800000000000000
+      internalID: 36477264709569168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_264
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9406995d71159e3f0800000000000000
+      internalID: -871075890109783991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_265
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 190
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b8fe791775ba010800000000000000
+      internalID: 1201149871016348554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_266
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 183
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f721892bb5ca96dd0800000000000000
+      internalID: -2492271408934546817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_267
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 181
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579572435fb0b4f60800000000000000
+      internalID: 8019516709233187189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_268
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 218
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e6a4e958e8d39c0800000000000000
+      internalID: -3945840993969213874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_269
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 180
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05194f558ed36b40800000000000000
+      internalID: 5432430239949591823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_270
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 211
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d8ba2d487c4d070800000000000000
+      internalID: 8130342600594656660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_271
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 179
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed35790ae3d8e7eb0800000000000000
+      internalID: -4720180059315940386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_272
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 177
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb48ff2a56427e00800000000000000
+      internalID: 1040971817041808325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_273
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 177
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6427bed21090970800000000000000
+      internalID: 8721503450114967266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_274
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 177
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b74363f918bd71a0800000000000000
+      internalID: -6810084639917258829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_275
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 177
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedc9fb12036d1530800000000000000
+      internalID: 3827324119045230058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_276
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 197
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df948d64b996e7b0800000000000000
+      internalID: -5195296119914717232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_277
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 114
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb95eae9e17445490800000000000000
+      internalID: -7758498061215704645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_278
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 114
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86839e30dd49ee10800000000000000
+      internalID: 2227397047509812878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_279
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 114
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eabcba7eb37b7d0800000000000000
+      internalID: -2902785568611258774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_280
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 118
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b48b65795be57990800000000000000
+      internalID: -7388740844176833351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_281
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 116
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2495c721824ce0e0800000000000000
+      internalID: -2239341792224504789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_282
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 114
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80e45e3bf40df580800000000000000
+      internalID: -8791865420428287860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_283
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 114
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35c768201a352820800000000000000
+      internalID: 2892782176727188799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_284
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 114
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290090163d75717b0800000000000000
+      internalID: -5253633874926698350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_285
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 114
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34353381e13487be0800000000000000
+      internalID: -1479358681057111229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_286
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 114
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8108fc36c13b63980800000000000000
+      internalID: -8559457107256049640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_287
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 114
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1cc9a52d0d6dcb0800000000000000
+      internalID: -4839451147681087011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_288
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 60
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4365d0b2dec9db6c0800000000000000
+      internalID: -4125969141158029772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_289
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 56
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5106ac5a6b25810800000000000000
+      internalID: 1752664028181697989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_290
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 98
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e067469ca9d395b20800000000000000
+      internalID: 3123595551571211790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_291
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4db4d59362ccf250800000000000000
+      internalID: 5979868138212474191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_292
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 98
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6858b86ee96d8cf0800000000000000
+      internalID: -248425931755464596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_293
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 61
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcec5c4f86758510800000000000000
+      internalID: 1550776004532563127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_294
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 51
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a01b0677311bac0800000000000000
+      internalID: -3841267603726071195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_295
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 90
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ccad4b0c0aaff40800000000000000
+      internalID: 5763095422702374018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_296
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 85
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99580c17972539fe0800000000000000
+      internalID: -1183511595515345511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_297
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 48
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b618ad7b74813b3f0800000000000000
+      internalID: -886338005355560597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_298
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744d12f1299c3cba0800000000000000
+      internalID: -6069786243340577721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_299
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 39
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1824ffce81ef9410800000000000000
+      internalID: 1486154405546043423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_300
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 39
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73bd8eac4b2094f0800000000000000
+      internalID: -824111123462769798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_301
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 39
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97136b676794c67c0800000000000000
+      internalID: -4076802789530521223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_302
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc16d65b324a7900800000000000000
+      internalID: 682931116127427769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_303
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5735129d36ee3550800000000000000
+      internalID: 6142600093898192731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_304
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 4
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba0b2e6245a9ec30800000000000000
+      internalID: 4389221016583998131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kino_305
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 7
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587fed5084eacc950800000000000000
+      internalID: 6470738388983936901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
