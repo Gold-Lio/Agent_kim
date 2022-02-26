@@ -14,7 +14,7 @@ public class GameManager : MonoBehaviour
     public bool isGameOver
     {
         get;
-        set;
+         set;
     }
 
     public bool isGameStart
