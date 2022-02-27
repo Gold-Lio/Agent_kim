@@ -7,7 +7,7 @@ public class DialogueManager : MonoBehaviour
 {
     public Text nameText;      // 손님 이름 nametext
     public Text dialogueText;  // 대화 내용 text
-    public Animator Animator;  // text창을 끄고 키는 애니매이터
+    public Animator Animator;  // 창을 끄고 키는 애니매이터
 
     private Queue<string> sentences;
 

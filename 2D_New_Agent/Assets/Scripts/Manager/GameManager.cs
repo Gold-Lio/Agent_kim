@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class GameManager : MonoBehaviour
+public partial class GameManager : MonoBehaviour
 {
 
     public static GameManager instance;
@@ -14,7 +14,7 @@ public class GameManager : MonoBehaviour
     public bool isGameOver
     {
         get;
-         set;
+        private set;
     }
 
     public bool isGameStart

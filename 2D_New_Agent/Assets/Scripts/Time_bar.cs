@@ -33,7 +33,7 @@ public class Time_bar : MonoBehaviour
         if(time <= 0)
         {
             stopTime = true;
-            GameManager.instance.isGameOver = true;
+          //  GameManager.instance.isGameOver = true;
         }
         if(stopTime == false)
         {
