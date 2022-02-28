@@ -8,8 +8,5 @@ public class DialogueTrigger : MonoBehaviour
     public void OnclickEvent()
     {
         FindObjectOfType<DialogueManager>().StartDialogue(dialogue);
-          
     }
-    
-
 }
