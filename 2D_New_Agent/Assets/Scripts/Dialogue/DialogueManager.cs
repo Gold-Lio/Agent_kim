@@ -7,7 +7,7 @@ public class DialogueManager : MonoBehaviour
 {
     public Text nameText;      // 손님 이름 nametext
     public Text dialogueText;  // 대화 내용 text
-    public Animator Animator;  // 창을 끄고 키는 애니매이터
+   // public Animator Animator;  // 창을 끄고 키는 애니매이터
 
     private Queue<string> sentences;
 
@@ -17,7 +17,7 @@ public class DialogueManager : MonoBehaviour
     }
     public void StartDialogue(Dialogue dialogue)  //대화를 시작하는 함수
     {
-        Animator.SetBool("IsOpen", true);
+       // Animator.SetBool("IsOpen", true);
         nameText.text = dialogue.name;
         sentences.Clear();
 
@@ -54,7 +54,7 @@ public class DialogueManager : MonoBehaviour
         }
         void EndDialogue()
         {
-            Animator.SetBool("IsOpen", false);   //dialogue를 끝낼때 사용하는 애니메이션
+           // Animator.SetBool("IsOpen", false);   //dialogue를 끝낼때 사용하는 애니메이션
         }
     }
 }
