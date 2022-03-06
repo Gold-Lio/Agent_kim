@@ -545,12 +545,12 @@ MonoBehaviour:
     m_Left: 0
     m_Right: 0
     m_Top: 0
-    m_Bottom: 0
+    m_Bottom: 181
   m_ChildAlignment: 0
-  m_StartCorner: 0
+  m_StartCorner: 1
   m_StartAxis: 0
   m_CellSize: {x: 100, y: 100}
-  m_Spacing: {x: 0, y: 0}
+  m_Spacing: {x: 0, y: -90.2}
   m_Constraint: 0
   m_ConstraintCount: 2
 --- !u!1 &254104795
@@ -2782,10 +2782,9 @@ MonoBehaviour:
     line: {x: 0, y: 5}
     dialogues:
     - name: 
-      sentences:
-      - 
+      contexts: []
     - name: 
-      sentences: []
+      contexts: []
 --- !u!1 &1632652466
 GameObject:
   m_ObjectHideFlags: 0
@@ -3357,10 +3356,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogue:
     name: aaa
-    sentences:
-    - aaa
-    - bbbbbb
-    - ddddddddddddddddd
+    contexts: []
 --- !u!114 &1917775384
 MonoBehaviour:
   m_ObjectHideFlags: 0

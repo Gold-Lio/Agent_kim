@@ -5,24 +5,11 @@ using UnityEngine;
 [System.Serializable]
 public class InteractionEvent : MonoBehaviour
 {
-    [SerializeField] DialogueEvent dialogues;
+    [SerializeField] DialogueEvent dialogue;
 
-    DialogueManager customer_DM;
-
-    private void Start()
+    public Dialogue[] GetDialogues()
     {
-        customer_DM = FindObjectOfType<DialogueManager>();
-    }
-
-    void Interact()
-    {
-        StartCoroutine(CustomerDialogue());
-    }
-
-    IEnumerator CustomerDialogue()
-    {
-        yield return null;
-        customer_DM.ShowDialogue();
+        dialogue.dialogues = DatabaseManager.instance.GetDialogue((int)dialogue.line.x, (int)dialogue.line.y);           // 자기자신에다가
+        return dialogue.dialogues;
     }
 }
-

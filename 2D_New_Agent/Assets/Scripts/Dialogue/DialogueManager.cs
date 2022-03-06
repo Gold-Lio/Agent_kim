@@ -11,13 +11,16 @@ public class DialogueManager : MonoBehaviour
     [SerializeField] Text txt_Dialogue;
     [SerializeField] Text txt_Name;
 
+    Dialogue[] dialogues;
+
+
     bool isDialogue = false;  //대화의 기본 값 false
 
-    public void ShowDialogue()
+    public void ShowDialogue(Dialogue[] p_dialogues)
     {
         txt_Dialogue.text = "";  //대화, 이름 창을 초기화한다.
         txt_Name.text = "";
-
+        dialogues = p_dialogues;
         SettingUI(true);
     }
 
