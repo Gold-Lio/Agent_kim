@@ -29,8 +29,8 @@ public class DialogueParser : MonoBehaviour
             dialogue.contexts = contextsList.ToArray(); // 다시 배열로 바꿔준다.
 
             dialogueList.Add(dialogue); //dialogueList에 반복되며 1개씩 추가될것이다. 
-            //Debug.Log(row[1]);
-            //Debug.Log(row[2]);
+            Debug.Log(row[1]);
+            Debug.Log(row[2]);
         }
         return dialogueList.ToArray();
     }

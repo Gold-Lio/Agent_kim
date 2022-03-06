@@ -770,6 +770,7 @@ GameObject:
   m_Component:
   - component: {fileID: 323588338}
   - component: {fileID: 323588337}
+  - component: {fileID: 323588339}
   m_Layer: 0
   m_Name: mmm
   m_TagString: Untagged
@@ -796,13 +797,26 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 323588336}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -22, y: 167, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -8.669432, y: -2040.4862, z: 0}
+  m_LocalScale: {x: 8.335984, y: 8.028672, z: 3.4344256}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_Father: {fileID: 1917775382}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &323588339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 323588336}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f3d7a54b0b29f344be15ff3112adbc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  csv_FileName: "\uC2DC\uD2B8_2"
 --- !u!1 &358275504
 GameObject:
   m_ObjectHideFlags: 0
@@ -2777,14 +2791,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 119931bca7fbebb41829c70d15dfec71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogues:
-    name: "\uC8FC\uD669\uBC84\uC12F "
-    line: {x: 0, y: 5}
-    dialogues:
-    - name: 
-      contexts: []
-    - name: 
-      contexts: []
+  dialogue:
+    name: 
+    line: {x: 0, y: 0}
+    dialogues: []
 --- !u!1 &1632652466
 GameObject:
   m_ObjectHideFlags: 0
@@ -3334,6 +3344,7 @@ RectTransform:
   m_LocalScale: {x: 0.11996184, y: 0.12455359, z: 0.29116952}
   m_Children:
   - {fileID: 1021608656}
+  - {fileID: 323588338}
   m_Father: {fileID: 612195896}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
