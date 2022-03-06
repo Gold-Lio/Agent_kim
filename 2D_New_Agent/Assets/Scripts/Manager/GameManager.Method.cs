@@ -12,7 +12,7 @@ public partial class GameManager : MonoBehaviour
         }
 
         Score = 0;
-        isGameOver = false;
-        isGameStart = false;
+        bisGameOver = false;
+        bisGameStart = false;
     }
 }

@@ -12,38 +12,22 @@ public class Time_bar : MonoBehaviour
     public float minTime;
     private bool stopTime;
 
+    private bool isClick;
 
-    void Start()
+    private void Update()
     {
-        stopTime = false;
-        timeBar.maxValue = gameTime;
-        timeBar.minValue = minTime;
+        if (isClick)
+        {
+            timeBar.value -= Time.deltaTime;
+            if (timeBar.value < minTime)
+            {
+                GameManager.instance.bisGameOver = true;
+            }
+        }
     }
 
-    public void Update()
+    public void Button()
     {
-        StartCoroutine(RunGameTime());
-    }
-
-    IEnumerator RunGameTime()
-    {
-        float time = gameTime - Time.time;
-
-       // int minutes = Mathf.FloorToInt(time / 60);
-        //int seconds = Mathf.FloorToInt(time - minutes * 60);
-      //  string textTime = string.Format($"{0:0}:{1:00}", minutes, seconds);
-
-        if (time <= 0)
-        {
-            stopTime = true;
-            //  GameManager.instance.isGameOver = true;
-        }
-        if (stopTime == false)
-        {
-            timeBar.value = time;
-            GameManager.instance.isGameOver = true;
-        }
-        yield return new WaitForSeconds(1f);
+        isClick = true;
     }
 }
-

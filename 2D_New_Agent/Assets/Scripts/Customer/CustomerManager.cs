@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CustomerManager : MonoBehaviour
 {
-    public static Customer instance;
+    public static Customer instance;  
     public Customer oldMan = new Customer();
     public Customer azumma = new Customer();
     public Customer kid = new Customer();
@@ -30,4 +30,5 @@ public class Customer
 {
     public bool bmasked;
     public float temperture;
-    public bool bvaccine;}
+    public bool bvaccine;
+}
