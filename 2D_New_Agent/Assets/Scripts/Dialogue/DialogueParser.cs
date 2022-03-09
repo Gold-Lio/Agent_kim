@@ -11,6 +11,8 @@ public class DialogueParser : MonoBehaviour
 
         string[] data = csvData.text.Split(new char[] { '\n' }); // \n = enter csv에서 다음줄로 넘어가는 Escape문
 
+        int ramdom2;
+
         for (int i = 1; i < data.Length;)  //데이터에 쪼개서 넣는 작업. 
         {
             string[] row = data[i].Split(new char[] { ',' });  //data i 번째를 콤마단위를 가진 배열로 한번 더 쪼개서(Split) -> row변수에 할당
@@ -21,16 +23,18 @@ public class DialogueParser : MonoBehaviour
             List<string> contextsList = new List<string>();  //contexts는 배열타입,즉 크기가 정해지지 않았음 그래서 리스트로 먼저 지정해준뒤, toArray 로 넘어갈꺼야 
             contextsList.Add(row[2]);
 
-            if(++i < data.Length)
+            if (++i < data.Length)
             {
                 ;
             }
-
             dialogue.contexts = contextsList.ToArray(); // 다시 배열로 바꿔준다.
+            dialogueList.Add(dialogue); //dialogueList에 반복되며 1개씩 추가될것이다.
 
-            dialogueList.Add(dialogue); //dialogueList에 반복되며 1개씩 추가될것이다. 
+            ////랜덤으로 A열 , B열을 변경
             Debug.Log(row[1]);
+            //row[2] = Random.Range(0, row[2].Length);
             Debug.Log(row[2]);
+             
         }
         return dialogueList.ToArray();
     }

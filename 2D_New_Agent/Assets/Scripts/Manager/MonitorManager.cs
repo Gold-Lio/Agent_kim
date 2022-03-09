@@ -10,15 +10,9 @@ public class MonitorManager : MonoBehaviour
     public float temperture = 0f;
 
     public Text vacin, mask, temp;
-    private bool isGameover;
-    
-    void Start()
-    {
-        isGameover = false;
-    }
+    private bool isGameover = false;
 
-    // Update is called once per frame
-    void Update()
+    public void Action()
     {
         temp.text = "온도 : ";// + Customer;
         mask.text = "마스크 : ";// + ;

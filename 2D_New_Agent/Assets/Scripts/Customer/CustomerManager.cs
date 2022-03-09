@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -8,6 +9,13 @@ public class CustomerManager : MonoBehaviour
     public Customer oldMan = new Customer();
     public Customer azumma = new Customer();
     public Customer kid = new Customer();
+
+    public void CutomerInfoUpdate(CustomerInfo _customerInfo)
+    {
+        System.Random rand = new System.Random();
+        _customerInfo.m_dTemper = Math.Round(rand.Next(36, 37) + rand.NextDouble(), 1);
+        _customerInfo.m_bMask = Convert.ToBoolean(rand.Next(0, 1));
+    }
 
     public void Start()
     {

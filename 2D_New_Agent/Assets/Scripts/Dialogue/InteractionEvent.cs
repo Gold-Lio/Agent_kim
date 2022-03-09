@@ -9,7 +9,7 @@ public class InteractionEvent : MonoBehaviour
 
     public Dialogue[] GetDialogues()
     {
-        dialogue.dialogues = DatabaseManager.instance.GetDialogue((int)dialogue.line.x, (int)dialogue.line.y);           // 자기자신에다가
+        dialogue.dialogues = DatabaseManager.instance.GetDialogue((int)dialogue.line.x, (int)dialogue.line.y); //몇번째 줄부터 몇번째줄까지 자기자신에다가 
         return dialogue.dialogues;
     }
 
@@ -18,11 +18,11 @@ public class InteractionEvent : MonoBehaviour
     {
         for (int i = 0; i < dialogues.Length; i++)
         {
-            // 캐릭터 이름 출력
+            //캐릭터 이름 출력
             Debug.Log(dialogues[i].name);
             // 대사들 출력
             foreach (string context in dialogues[i].contexts)
-                Debug.Log(context);
+                Debug.Log(context);   //이거를 처음부터 끝까지 꼬아야한다. 
         }
     }
 }

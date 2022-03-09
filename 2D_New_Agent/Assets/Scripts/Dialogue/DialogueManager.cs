@@ -15,6 +15,7 @@ public class DialogueManager : MonoBehaviour
 
 
     bool isDialogue = false;  //대화의 기본 값 false
+    bool isEnter = false;
 
     public void ShowDialogue(Dialogue[] p_dialogues)
     {
