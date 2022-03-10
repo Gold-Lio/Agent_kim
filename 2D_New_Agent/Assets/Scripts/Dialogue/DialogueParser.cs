@@ -11,8 +11,6 @@ public class DialogueParser : MonoBehaviour
 
         string[] data = csvData.text.Split(new char[] { '\n' }); // \n = enter csv에서 다음줄로 넘어가는 Escape문
 
-        int ramdom2;
-
         for (int i = 1; i < data.Length;)  //데이터에 쪼개서 넣는 작업. 
         {
             string[] row = data[i].Split(new char[] { ',' });  //data i 번째를 콤마단위를 가진 배열로 한번 더 쪼개서(Split) -> row변수에 할당
@@ -32,8 +30,9 @@ public class DialogueParser : MonoBehaviour
 
             ////랜덤으로 A열 , B열을 변경
             Debug.Log(row[1]);
-            //row[2] = Random.Range(0, row[2].Length);
             Debug.Log(row[2]);
+
+           // row[2] = data[random.Next(data.Length)];
              
         }
         return dialogueList.ToArray();
