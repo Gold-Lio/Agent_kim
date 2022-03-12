@@ -5,12 +5,8 @@ using UnityEngine;
 [System.Serializable] // 데이터를 직렬로 사용, 즉 인스펙터창에서 수정 가능
 public class Dialogue
 {
-    [Tooltip("대사 치는 캐릭터의 이름")]
-    public string name;
-
     [Tooltip("대사 내용")]
-    [TextArea(2,10)]
-    public string[] contexts;
+    public string contexts;
 }
 
 [System.Serializable]
