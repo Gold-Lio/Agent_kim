@@ -18,4 +18,6 @@ public class DialogueEvent
     
     [SerializeField]
     public Dialogue[] dialogues;
+
+
 }

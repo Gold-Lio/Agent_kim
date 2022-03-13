@@ -16,18 +16,25 @@ public class DialogueParser : MonoBehaviour
 
         for (int i = 1; i < data.Length;)  //데이터에 쪼개서 넣는 작업. 
         {
-            Debug.Log(data[1]);
+            string[] row = data[i].Split(new char[] { ',' });
+            
+            Dialogue dialogue = new Dialogue();
 
+            List<string> contextList = new List<string>();
+
+            contextList.Add(row[1]);
+
+            Debug.Log(row[1]);
             if (++i < data.Length)
             {
                 ;
             }
+
+            dialogueList.Add(dialogue);  //
         }
+
+
         return dialogueList.ToArray();
-    }
-    private void Awake()
-    {
-        Parse("prologue");
     }
 }
 
