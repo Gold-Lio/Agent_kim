@@ -7,11 +7,12 @@ using UnityEngine;
 /// </summary>
 [System.Serializable]
 public class InteractionEvent : MonoBehaviour
-{
+ {
     [SerializeField] DialogueEvent dialogue;
-
+    //몇번째 줄부터 몇번째 까지 꺼내올지 결정해주는 interactionEvent
     public Dialogue[] GetDialogues()
     {
-        dialogue.dialogues = DatabaseManager.instance.GetDialogues();
+        dialogue.dialogues = DatabaseManager.instance.GetDialogue((int)dialogue.line.x);
+        return dialogue.dialogues;
     }
 }
