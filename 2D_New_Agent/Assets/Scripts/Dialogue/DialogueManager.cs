@@ -19,11 +19,10 @@ public class DialogueManager : MonoBehaviour
         theIC = FindObjectOfType<InteractionController>();
     }
 
-    public void ShowDialouge(Dialogue[] p_dialogues)
+    public void ShowDialouge()  //고객의 대화박스  (Dialogue[] p_dialogues)
     {
         txt_Dialogue.text = "";
-        // theIC.HideUI;
-        dialogues = p_dialogues;
+     //   dialogues = p_dialogues;
         SettingUI(true);
     }
 

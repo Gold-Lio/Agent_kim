@@ -38,20 +38,3 @@ public class DialogueParser : MonoBehaviour
     }
 }
 
-//    string[] row = data[i].Split(new char[] { ',' });  //2개의 대사가 뜬다. 
-
-//    Dialogue dialogue = new Dialogue();
-
-//    List<string> contextList = new List<string>();
-//    contextList.Add(row[1]);
-
-//    if (++i < data.Length)  //i를 증가시키고 Data의 내용보다 작다면 실행하게 해준다.
-//    {
-//        ;
-//    }
-//    Debug.Log(row[1]);
-//    dialogue.contexts = contextList.ToArray();
-//    dialogueList.Add(dialogue);
-//}
-//return dialogueList.ToArray();
-
