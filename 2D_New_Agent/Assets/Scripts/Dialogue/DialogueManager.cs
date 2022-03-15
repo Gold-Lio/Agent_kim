@@ -24,6 +24,7 @@ public class DialogueManager : MonoBehaviour
         txt_Dialogue.text = "";
         // theIC.HideUI;
         dialogues = p_dialogues;
+        SettingUI(true);
     }
 
     void SettingUI(bool p_flag)

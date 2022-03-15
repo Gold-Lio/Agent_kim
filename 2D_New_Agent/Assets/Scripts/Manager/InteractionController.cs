@@ -4,21 +4,45 @@ using UnityEngine;
 
 public class InteractionController : MonoBehaviour
 {
-  
-    public void HideUI()
-    {
 
+    bool isContact = false;
+
+    DialogueManager theDM; // DialogueManager를 참조할 변수
+
+    private void Start()
+    {
+        theDM = FindObjectOfType<DialogueManager>();
+    }
+
+    private void Update()
+    {
+        ShowDialogue(dialogus);
+        theDM.ShowDialogue();
     }
 
     void ShowDialogue(Dialogue[] dialogues)
     {
         dialogues = dialogues;
+        isContact = true;
+        this.transform.GetComponent<InteractionEvent>().GetDialogues();
+        StartCoroutine("Customer"); 
     }
 
     void Interact()
     {
-        this.transform.GetComponent<InteractionEvent>().GetDialogues();
+      
+        StartCoroutine("Customer");
     }
 
-
+    IEnumerator WaitOneSecend(){  //특정 조건을 만족할때까지 모니터에서 결과값이 나올때까지       //커스터머가 있을때
+    {
+        if ( ) // yes or no를 눌렀을때 
+            theDM.ShowDialouge(transform.GetComponent<InteractionEvent>().GetDialogues());    //고객을 사라지게 하고 , 조건의 결과(실패 혹은 성공)에 따라 를 바탕화면 UI를 변경 한다.  실패한다면 게임 실패 UI...! 
+            
+            
+            
+            
+            yield return new WaitForSeconds(0.1f);
+        }
+    }
 }
