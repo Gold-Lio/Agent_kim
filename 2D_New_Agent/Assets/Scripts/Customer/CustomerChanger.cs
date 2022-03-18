@@ -5,13 +5,17 @@ using UnityEngine.UI;
 
 public class CustomerChanger : MonoBehaviour
 {
-    public CustomerImage[] customerImages(int a)
+    public Sprite[] spr;
+    public void Start()
     {
-        List<Image> CustomerImageList = new List<Image>(); // 고객 이미지 리스트 받아오기
+        Init_UI();
+    }
 
 
+    void Init_UI()
+    {
+        button_random.onClick.RemoveAlisteners();
 
-        return null;
     }
 
 }

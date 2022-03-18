@@ -19,16 +19,21 @@ public class DialogueManager : MonoBehaviour
         theIC = FindObjectOfType<InteractionController>();
     }
 
-    public void ShowDialouge()  //고객의 대화박스  (Dialogue[] p_dialogues)
+    public void ShowDialouge(Dialogue[] p_dialogues)  //고객의 대화박스  (Dialogue[] p_dialogues)
     {
         txt_Dialogue.text = "";
-     //   dialogues = p_dialogues;
-        SettingUI(true);
+        dialogues = p_dialogues;
+        DialogueUI(true);
     }
 
-    void SettingUI(bool p_flag)
+    void DialogueUI(bool p_flag)
     {
         go_DialogueBar.SetActive(p_flag);
+    }
+
+    void CustomerImg ()
+    {
+
     }
 
 }
