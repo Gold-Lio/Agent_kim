@@ -18,23 +18,21 @@ public class DialogueParser : MonoBehaviour
         {
             string[] row = data[i].Split(new char[] { ',' });
             
-            Dialogue dialogue = new Dialogue();
+            Dialogue dialogue = new Dialogue(); // 대사 리스트 생성
 
-            List<string> contextList = new List<string>();
-
-            contextList.Add(row[1]);
-
-            Debug.Log(row[1]);
+            dialogue.contexts = row[1];
+            //Debug.Log(row[1]); -디버그 잘뜸. 
             if (++i < data.Length)
             {
                 ;
             }
 
-            dialogueList.Add(dialogue);  //
+            dialogueList.Add(dialogue);
+           
         }
-
 
         return dialogueList.ToArray();
     }
+
 }
 

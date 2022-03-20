@@ -17,7 +17,7 @@ public class DatabaseManager : MonoBehaviour
         {
             instance = this;
             DialogueParser theParser = GetComponent<DialogueParser>();
-            Dialogue[] dialogues = theParser.Parse(csv_FileName);
+            Dialogue[] dialogues = theParser.Parse(csv_FileName); // 모든 데이터가 담기는 배열. 
 
             for (int i = 0; i < dialogues.Length; i++)
             {
@@ -27,12 +27,12 @@ public class DatabaseManager : MonoBehaviour
         }
     }
 
-    public Dialogue[] GetDialogue(int Num)
+    public Dialogue[] GetDialogue(int StartNum)
     { // 더해지는 값. 
         List<Dialogue> dialogueList = new List<Dialogue>();
-        for (int i = 0; i < Num; i++)
+        for (int i = 0; i < StartNum; i++)
         {
-           dialogueList.Add(dialogueDic[++i]); 
+           dialogueList.Add(dialogueDic[+i]); 
         }
         return dialogueList.ToArray();
     }

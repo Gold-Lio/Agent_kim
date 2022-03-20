@@ -26,14 +26,8 @@ public class DialogueManager : MonoBehaviour
         DialogueUI(true);
     }
 
-    void DialogueUI(bool p_flag)
+    public void DialogueUI(bool p_flag)
     {
         go_DialogueBar.SetActive(p_flag);
     }
-
-    void CustomerImg ()
-    {
-
-    }
-
 }

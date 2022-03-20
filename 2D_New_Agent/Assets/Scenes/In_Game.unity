@@ -938,6 +938,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 996525aa985ac10478d4eab736f91ae5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  customer: {fileID: 1624109564}
 --- !u!4 &534488636
 Transform:
   m_ObjectHideFlags: 0
@@ -2050,6 +2051,7 @@ GameObject:
   - component: {fileID: 1624109566}
   - component: {fileID: 1624109565}
   - component: {fileID: 1624109569}
+  - component: {fileID: 1624109570}
   - component: {fileID: 1624109568}
   m_Layer: 0
   m_Name: Cutomer_Muchroom
@@ -2164,6 +2166,15 @@ MonoBehaviour:
     line: {x: 1, y: 1}
     dialogues:
     - contexts: 
+    - contexts: 
+    - contexts: 
+    - contexts: 
+    - contexts: 
+    - contexts: 
+    - contexts: 
+    - contexts: 
+    - contexts: 
+    - contexts: 
 --- !u!210 &1624109569
 SortingGroup:
   m_ObjectHideFlags: 0
@@ -2175,6 +2186,20 @@ SortingGroup:
   m_SortingLayerID: 1484737573
   m_SortingLayer: 1
   m_SortingOrder: 2
+--- !u!114 &1624109570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1624109564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc4e57b176673a45b28994fce8aaa70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isCustomer: 1
+  interactionName: "\uBC84\uC12F"
 --- !u!1 &1632652466
 GameObject:
   m_ObjectHideFlags: 0

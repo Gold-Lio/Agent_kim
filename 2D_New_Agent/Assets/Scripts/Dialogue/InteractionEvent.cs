@@ -12,7 +12,7 @@ public class InteractionEvent : MonoBehaviour
     //몇번째 줄부터 몇번째 까지 꺼내올지 결정해주는 interactionEvent
     public Dialogue[] GetDialogues()
     {
-        dialogue.dialogues = DatabaseManager.instance.GetDialogue((int)dialogue.line.x);
+       // dialogue.dialogues = DatabaseManager.instance.GetDialogue((int)dialogue.line.x);
         return dialogue.dialogues;
     }
 }
