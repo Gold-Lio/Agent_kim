@@ -20,13 +20,17 @@ public class DialogueParser : MonoBehaviour
             
             Dialogue dialogue = new Dialogue(); // 대사 리스트 생성
 
-            dialogue.contexts = row[1];
-            //Debug.Log(row[1]); -디버그 잘뜸. 
-            if (++i < data.Length)
+            List<string> contextList = new List<string>();   //리스트로 만들고 그리고 다시 배열로 변경하는 과정 필요. 
+
+            contextList.Add(row[1]);
+
+            Debug.Log(row[1]);
+            if (++i < data.Length) //i를 미리 증가시키고 data.length 보다 작다면 ; 
             {
                 ;
             }
 
+            dialogue.contexts = contextList.ToArray();
             dialogueList.Add(dialogue);
            
         }

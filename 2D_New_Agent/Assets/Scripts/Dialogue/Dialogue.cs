@@ -6,17 +6,13 @@ using UnityEngine;
 public class Dialogue
 {
     [Tooltip("대사 내용")]
-    public string contexts;
+    public string[] contexts;
 }
 
 [System.Serializable]
 public class DialogueEvent
 {
     public string name;  //대화이벤트의 이름명시
-
-    public Vector2 line; // 몇번째 줄~~대화추출하는 변수  x부터 y까지의 대화를 추출해내는 변수
-
+    public Vector2 line; // 몇번째 줄~~대화추출하는 변수  x_ONLY
     public Dialogue[] dialogues;
-
-
 }

@@ -32,7 +32,7 @@ public class DatabaseManager : MonoBehaviour
         List<Dialogue> dialogueList = new List<Dialogue>();
         for (int i = 0; i < StartNum; i++)
         {
-           dialogueList.Add(dialogueDic[+i]); 
+           dialogueList.Add(dialogueDic[++i]); 
         }
         return dialogueList.ToArray();
     }
